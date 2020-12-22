@@ -49,7 +49,7 @@
     "ip": "^1.1.5",
     "less": "^3.8.0",
     "less-loader": "^4.1.0",
-    "node-notifier": "^5.2.1",
+    "node-notifier": "^8.0.1",
     "phantom-limb": "0.0.1",
     "portfinder": "^1.0.15",
     "postcss-import": "^12.0.0",
